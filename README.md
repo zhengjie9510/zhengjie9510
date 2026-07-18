@@ -47,38 +47,6 @@ I'm an <b>AI/ML engineer</b> working on deep learning, LLM application architect
 
 ---
 
-## 🚀 Featured Projects
-
-### 🤖 AI & Machine Learning
-
-| Project | Stars | Description |
-|:--------|:-----:|:------------|
-| [**pyside-yolo**](https://github.com/zhengjie9510/pyside-yolo) | ⭐ 11 | PySide6 + YOLO8 target detection & tracking visualization |
-| [**openai-proxy**](https://github.com/zhengjie9510/openai-proxy) | ⭐ 50 | OpenAI API proxy service |
-| [**langchain-docker-backend**](https://github.com/zhengjie9510/langchain-docker-backend) | ⭐ 3 | Docker sandbox backend for AI agents — code execution, file I/O, container management |
-| [**mineru-docparse-mcp**](https://github.com/zhengjie9510/mineru-docparse-mcp) | ⭐ 1 | MCP server converting Word / PDF / PPT / Excel to Markdown (MinerU) |
-
-### 🌍 WebGIS & Maps
-
-| Project | Stars | Description |
-|:--------|:-----:|:------------|
-| [**webgis-demo**](https://github.com/zhengjie9510/webgis-demo) | ⭐ 373 | Cesium 3D GIS demos |
-| [**google-map-downloader**](https://github.com/zhengjie9510/google-map-downloader) | ⭐ 215 | Download Google Maps satellite tiles to georeferenced TIFF |
-| [**cesium-tdt**](https://github.com/zhengjie9510/cesium-tdt) | ⭐ 21 | Cesium with Tianditu 3D terrain & toponym service |
-| [**tvdi**](https://github.com/zhengjie9510/tvdi) | ⭐ 7 | Temperature Vegetation Dryness Index calculation |
-
-### 📚 Learning & Courses
-
-| Project | Stars | Description |
-|:--------|:-----:|:------------|
-| [**ML2023-Spring**](https://github.com/zhengjie9510/ML2023-Spring) | ⭐ 14 | Hung-yi Lee Machine Learning 2023 Spring |
-| [**learn-diffusion**](https://github.com/zhengjie9510/learn-diffusion) | ⭐ 0 | Hands-on PyTorch repo for learning diffusion models |
-| [**learn-opengl**](https://github.com/zhengjie9510/learn-opengl) | ⭐ 1 | OpenGL learning project (Visual Studio 2022) |
-| [**learn-langchain**](https://github.com/zhengjie9510/learn-langchain) | ⭐ 1 | Build context-aware reasoning applications with LangChain |
-| [**named-entity-recognition**](https://github.com/zhengjie9510/named-entity-recognition) | ⭐ 1 | BiLSTM / BiLSTM-CRF NER implementation |
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
