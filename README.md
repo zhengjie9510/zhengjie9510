@@ -51,74 +51,39 @@ I'm an <b>AI/ML engineer</b> working on deep learning, LLM application architect
 
 ### 🤖 AI & Machine Learning
 
-<div align="center">
-  <a href="https://github.com/zhengjie9510/pyside-yolo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhengjie9510&repo=pyside-yolo&theme=github_dark&show_owner=false" />
-  </a>
-  <a href="https://github.com/zhengjie9510/langchain-docker-backend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhengjie9510&repo=langchain-docker-backend&theme=github_dark&show_owner=false" />
-  </a>
-  <a href="https://github.com/zhengjie9510/mineru-docparse-mcp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhengjie9510&repo=mineru-docparse-mcp&theme=github_dark&show_owner=false" />
-  </a>
-  <a href="https://github.com/zhengjie9510/openai-proxy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhengjie9510&repo=openai-proxy&theme=github_dark&show_owner=false" />
-  </a>
-</div>
+| Project | Stars | Description |
+|:--------|:-----:|:------------|
+| [**pyside-yolo**](https://github.com/zhengjie9510/pyside-yolo) | ⭐ 11 | PySide6 + YOLO8 target detection & tracking visualization |
+| [**openai-proxy**](https://github.com/zhengjie9510/openai-proxy) | ⭐ 50 | OpenAI API proxy service |
+| [**langchain-docker-backend**](https://github.com/zhengjie9510/langchain-docker-backend) | ⭐ 3 | Docker sandbox backend for AI agents — code execution, file I/O, container management |
+| [**mineru-docparse-mcp**](https://github.com/zhengjie9510/mineru-docparse-mcp) | ⭐ 1 | MCP server converting Word / PDF / PPT / Excel to Markdown (MinerU) |
 
 ### 🌍 WebGIS & Maps
 
-<div align="center">
-  <a href="https://github.com/zhengjie9510/webgis-demo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhengjie9510&repo=webgis-demo&theme=github_dark&show_owner=false" />
-  </a>
-  <a href="https://github.com/zhengjie9510/google-map-downloader">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhengjie9510&repo=google-map-downloader&theme=github_dark&show_owner=false" />
-  </a>
-  <a href="https://github.com/zhengjie9510/cesium-tdt">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhengjie9510&repo=cesium-tdt&theme=github_dark&show_owner=false" />
-  </a>
-  <a href="https://github.com/zhengjie9510/tvdi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhengjie9510&repo=tvdi&theme=github_dark&show_owner=false" />
-  </a>
-</div>
+| Project | Stars | Description |
+|:--------|:-----:|:------------|
+| [**webgis-demo**](https://github.com/zhengjie9510/webgis-demo) | ⭐ 373 | Cesium 3D GIS demos |
+| [**google-map-downloader**](https://github.com/zhengjie9510/google-map-downloader) | ⭐ 215 | Download Google Maps satellite tiles to georeferenced TIFF |
+| [**cesium-tdt**](https://github.com/zhengjie9510/cesium-tdt) | ⭐ 21 | Cesium with Tianditu 3D terrain & toponym service |
+| [**tvdi**](https://github.com/zhengjie9510/tvdi) | ⭐ 7 | Temperature Vegetation Dryness Index calculation |
 
 ### 📚 Learning & Courses
 
-<div align="center">
-  <a href="https://github.com/zhengjie9510/ML2023-Spring">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhengjie9510&repo=ML2023-Spring&theme=github_dark&show_owner=false" />
-  </a>
-  <a href="https://github.com/zhengjie9510/learn-diffusion">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhengjie9510&repo=learn-diffusion&theme=github_dark&show_owner=false" />
-  </a>
-  <a href="https://github.com/zhengjie9510/learn-opengl">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhengjie9510&repo=learn-opengl&theme=github_dark&show_owner=false" />
-  </a>
-  <a href="https://github.com/zhengjie9510/learn-langchain">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhengjie9510&repo=learn-langchain&theme=github_dark&show_owner=false" />
-  </a>
-</div>
+| Project | Stars | Description |
+|:--------|:-----:|:------------|
+| [**ML2023-Spring**](https://github.com/zhengjie9510/ML2023-Spring) | ⭐ 14 | Hung-yi Lee Machine Learning 2023 Spring |
+| [**learn-diffusion**](https://github.com/zhengjie9510/learn-diffusion) | ⭐ 0 | Hands-on PyTorch repo for learning diffusion models |
+| [**learn-opengl**](https://github.com/zhengjie9510/learn-opengl) | ⭐ 1 | OpenGL learning project (Visual Studio 2022) |
+| [**learn-langchain**](https://github.com/zhengjie9510/learn-langchain) | ⭐ 1 | Build context-aware reasoning applications with LangChain |
+| [**named-entity-recognition**](https://github.com/zhengjie9510/named-entity-recognition) | ⭐ 1 | BiLSTM / BiLSTM-CRF NER implementation |
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=zhengjie9510&show_icons=true&theme=github_dark&count_private=true&hide_border=true&include_all_commits=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=zhengjie9510&layout=compact&theme=github_dark&hide_border=true&langs_count=8&hide=jupyter%20notebook,matlab" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhengjie9510&theme=github-dark&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zhengjie9510&theme=algolia&column=7&no-frame=true&margin-w=8" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zhengjie9510&theme=github-dark&hide_border=true&area=true" />
+  <img height="160" src="https://streak-stats.demolab.com/?user=zhengjie9510&theme=github-dark&hide_border=true" />
+  <img height="160" src="https://ghchart.rshah.org/zhengjie9510" />
 </div>
 
 ---
@@ -127,6 +92,4 @@ I'm an <b>AI/ML engineer</b> working on deep learning, LLM application architect
   <samp>
     <i>"Models are just compressed representations of the world — build them well, and they'll surprise you."</i>
   </samp>
-  <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=100&section=footer" />
 </div>
