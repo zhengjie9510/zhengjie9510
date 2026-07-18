@@ -6,6 +6,7 @@
   <a href="https://zhengjie9510.github.io"><img src="https://img.shields.io/badge/Blog-zhengjie9510.github.io-3B82F6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="mailto:48191797+zhengjie9510@users.noreply.github.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=zhengjie9510&style=for-the-badge&color=3B82F6&label=Profile+Views" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/zhengjie9510/zhengjie9510/main/stars.json&query=%24.stars&style=for-the-badge&color=FBBF24&label=%E2%AD%90%20Total%20Stars&cacheSeconds=3600" />
 </div>
 
 <br/>

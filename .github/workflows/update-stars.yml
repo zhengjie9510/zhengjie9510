@@ -1,0 +1,27 @@
+name: Update Total Stars
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # daily at midnight UTC
+  workflow_dispatch:       # allow manual trigger
+
+jobs:
+  update-stars:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Count total stars
+        run: |
+          TOTAL=$(gh api users/zhengjie9510/repos --jq '[.[] | select(.fork == false) | .stargazers_count] | add')
+          echo "{\"stars\": $TOTAL}" > stars.json
+          echo "Total stars: $TOTAL"
+        env:
+          GH_TOKEN: ${{ github.token }}
+      - name: Commit if changed
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add stars.json
+          git diff --cached --quiet || git commit -m "📊 Update star count" && git push
